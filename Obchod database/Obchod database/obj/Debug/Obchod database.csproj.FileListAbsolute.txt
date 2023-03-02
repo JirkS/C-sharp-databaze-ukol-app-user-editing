@@ -1,0 +1,11 @@
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\bin\Debug\Obchod database.exe.config
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\bin\Debug\Obchod database.exe
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\bin\Debug\Obchod database.pdb
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\obj\Debug\Obchod database.csproj.AssemblyReference.cache
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\obj\Debug\Obchod database.csproj.SuggestedBindingRedirects.cache
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\obj\Debug\Obchod_database.Form1.resources
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\obj\Debug\Obchod_database.Properties.Resources.resources
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\obj\Debug\Obchod database.csproj.GenerateResource.cache
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\obj\Debug\Obchod database.csproj.CoreCompileInputs.cache
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\obj\Debug\Obchod database.exe
+D:\Jirik-work\C#\workspace\2022-23\Obchod database\Obchod database\obj\Debug\Obchod database.pdb

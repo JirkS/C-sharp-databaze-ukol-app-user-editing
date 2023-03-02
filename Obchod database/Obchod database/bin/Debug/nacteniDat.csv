@@ -1,0 +1,6 @@
+Zakaznik,jmeno,email,,
+,Jirka,jiri@s.cz,,
+,Simon,simca@br.com,,
+Objednavka,zak_id,cislo objednavky,datum,cena objednavky
+,1,1,2023-12-22,1000
+,2,2,2022-03-09,500
